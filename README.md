@@ -1,5 +1,5 @@
 # Simple Interest Calculator
-
+#This repository contains simple interest calculator.
 ## Description
 
 A simple interest calculator that calculates the interest and total amount based on the principal amount, rate of interest, and time period.
